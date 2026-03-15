@@ -1,5 +1,5 @@
 Project Title
-AI-Powered Payroll Fraud Detection in Public Financial Management
+AI-Driven Fraud Detection in Public Financial Management Using Convolutional Neural Networks
 
 Overview
 This repository contains the implementation of a deep learning framework for detecting payroll fraud in Nigeria’s Public Financial Management (PFM) system. The model uses Convolutional Neural Networks (CNN) combined with SMOTE to address class imbalance and detect anomalous payroll transactions.
@@ -25,4 +25,5 @@ Recall	  0.841
 F1 Score	0.874
 
 Research Reference
+This repository contains the implementation developed for the MSc thesis:
 Asogwa, K. (2025). AI-Driven Fraud Detection in Public Financial Management Using Convolutional Neural Networks. MSc Statistics, University of Lagos.
